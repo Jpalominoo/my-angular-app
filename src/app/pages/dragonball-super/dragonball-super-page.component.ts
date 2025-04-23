@@ -9,7 +9,7 @@ interface Character {
 
 @Component({
 
-templateUrl: './dragonball-page.component.html',
+templateUrl: './dragonball-super-page.component.html',
 
 })
 
